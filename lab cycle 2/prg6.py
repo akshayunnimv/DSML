@@ -1,0 +1,11 @@
+print("SJC22MCA-2007 : AKSHAY UNNI M V")
+print("Batch : MCA 2022-24")
+import numpy as np
+two_dimensional_array = np.array([[1, 2, 3, 4],[5, 6, 7, 8],[9, 10, 11, 12],[13, 14, 15, 16]])
+print("Original 2D array:\n", two_dimensional_array)
+print("Elements excluding the first row:\n", two_dimensional_array[1:])
+print("Elements excluding the last column:\n", two_dimensional_array[:, :-1])
+print("Elements of the 1st and 2nd column in the 2nd and 3rd row:\n",two_dimensional_array[1:3, 0:2])
+print("Elements of the 2nd and 3rd column:\n", two_dimensional_array[:, 1:3])
+print("2nd and 3rd element of the 1st row:\n",two_dimensional_array[0, 1:3])
+print("Elements from indices 4 to 10 in descending order:\n",two_dimensional_array.ravel()[::-1][4:11])
