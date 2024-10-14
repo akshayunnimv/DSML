@@ -47,8 +47,12 @@
     &quot;Python.prg17.executor&quot;: &quot;Run&quot;,
     &quot;Python.prg2.executor&quot;: &quot;Run&quot;,
     &quot;Python.prg3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prg3bernoulli.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prg3gaussian.executor&quot;: &quot;Run&quot;,
     &quot;Python.prg4.executor&quot;: &quot;Run&quot;,
     &quot;Python.prg5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prg5multipleregression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prg5singleregression.executor&quot;: &quot;Run&quot;,
     &quot;Python.prg6.executor&quot;: &quot;Run&quot;,
     &quot;Python.prg7.executor&quot;: &quot;Run&quot;,
     &quot;Python.prg8.executor&quot;: &quot;Run&quot;,
@@ -85,7 +89,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
@@ -107,6 +111,16 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lab cycle 4/prg5multipleregression.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/labcycle 5/prg4.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
